@@ -34,6 +34,10 @@ a {
   padding: 25px 60px;
   margin-bottom: 30px;
 }
+h2 {
+  text-align: center;
+  color: #fff;
+}
 
 .cart {
   background-color: pink;
@@ -49,10 +53,13 @@ a {
   top: -15px;
   right: -10px;
   font-size: 16px;
-  background-color: red;
+  background-color: blueviolet;
   color: white;
   padding: 3px;
   border-radius: 3px;
+}
+singingsparrow-img {
+  text-align: right;
 }
 
 /**
