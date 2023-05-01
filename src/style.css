@@ -25,6 +25,8 @@ a {
 
 .navbar {
   display: flex;
+  font-family: "Seaweed Script", cursive;
+  font-size: 25px;
   flex-direction: row;
   justify-content: space-between;
   background-color: #e3a9e4;
@@ -34,8 +36,8 @@ a {
 }
 
 .cart {
+  background-color: pink;
   position: relative;
-  background-color: #fff;
   color: #212529;
   font-size: 30px;
   padding: 5px;
