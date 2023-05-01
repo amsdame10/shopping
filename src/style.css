@@ -13,6 +13,9 @@ body {
 i {
   cursor: pointer;
 }
+.i {
+  color: deeppink;
+}
 
 a {
   text-decoration: none;
