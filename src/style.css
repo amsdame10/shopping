@@ -5,6 +5,7 @@
 }
 
 body {
+  background-color: #bad6ec;
   cursor: url(https://www.clickawayconference.com/wp-content/uploads/2023/02/upclose-flower-7.svg)
       15 15,
     auto;
@@ -40,7 +41,7 @@ a {
 }
 h1 {
   text-align: center;
-  color: #fff;
+  color: #9b44d5;
 }
 
 .cart {
@@ -76,6 +77,7 @@ singingsparrow-img {
   gap: 30px;
   justify-content: center;
   margin-bottom: 50px;
+  background-color: #bad6ec;
 }
 
 @media (max-width: 1000px) {
@@ -140,7 +142,7 @@ singingsparrow-img {
 .HomeBtn,
 .checkout,
 .removeAll {
-  background-color: #212529;
+  background-color: rgb(235, 70, 182);
   color: white;
   border: none;
   padding: 6px;
@@ -150,10 +152,10 @@ singingsparrow-img {
 }
 
 .checkout {
-  background-color: green;
+  background-color: peru;
 }
 .removeAll {
-  background-color: red;
+  background-color: pink;
 }
 .bi-x-lg {
   color: red;
@@ -200,4 +202,18 @@ singingsparrow-img {
   color: white;
   border-radius: 4px;
   padding: 3px 6px;
+}
+.HomeBtn {
+  color: #bad6ec;
+}
+..fa,
+.fa-brands,
+.fa-classic,
+.fa-regular,
+.fa-sharp,
+.fa-solid,
+.fab,
+.far,
+.fas {
+  size: 50px 40px;
 }
