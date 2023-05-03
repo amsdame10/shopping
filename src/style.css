@@ -206,14 +206,6 @@ singingsparrow-img {
 .HomeBtn {
   color: #bad6ec;
 }
-..fa,
-.fa-brands,
-.fa-classic,
-.fa-regular,
-.fa-sharp,
-.fa-solid,
-.fab,
-.far,
-.fas {
-  size: 50px 40px;
+.fa {
+  font-size: 400px;
 }
